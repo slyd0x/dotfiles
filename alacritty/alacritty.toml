@@ -1,0 +1,12 @@
+[window]
+opacity = 0.9
+blur = true
+startup_mode = "Windowed"
+decorations_theme_variant = "Dark"
+
+[font]
+normal = { family = "Consolas", style = "Regular" }
+size = 13
+
+[terminal]
+shell = "/bin/fish"

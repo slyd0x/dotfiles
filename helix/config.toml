@@ -1,0 +1,4 @@
+theme = "gruvbox_original_dark_soft"
+
+[editor]
+line-number = "relative"
